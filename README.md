@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-kothamasu&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-kothamasu" /> </p>
 
-- 🌱 I’m currently learning **Typescript,Data Science**
+- 🌱 I’m currently learning **Data Science, Gen AI**
 
 - 💬 Ask me about **MERN**
 
