@@ -21,15 +21,7 @@
 
 ## 💬 Ask Me About
 
-- React.js
-- Node.js
-- PostgreSQL
-- Python
-- FastAPI
-- Machine Learning
-- Generative AI
-- RAG Applications
-- Agentic AI
+React.js, Node.js, PostgreSQL, Python, FastAPI, Machine Learning, Generative AI, RAG Applications, and Agentic AI.
 
 ---
 
